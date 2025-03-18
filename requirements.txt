@@ -1,0 +1,4 @@
+cohere
+streamlit
+sqlite3  # (Built-in, but no harm including)
+pillow
